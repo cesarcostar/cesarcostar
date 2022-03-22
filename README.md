@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working 
+- 🔭 I’m currently looking for a Job 
 - 🌱 I’m currently learning keras
 - 👯 I’m looking to collaborate on machine learning
 - 💬 Ask me about everything
